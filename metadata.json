@@ -1,0 +1,5 @@
+{
+  "name": "Private Chef Menu",
+  "description": "A private dining ordering application with strict quota management per user and total table limit.",
+  "requestFramePermissions": []
+}
